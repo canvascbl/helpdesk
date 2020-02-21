@@ -6,9 +6,18 @@ description: More info on CanvasCBL's GPAs.
 type: Document
 ---
 
-Currently, CanvasCBL only provides **unweighted** GPAs for **the current semester**. The GPA is out of 4.
+CanvasCBL automatically calculates your GPA every time you log in.
+It provides an **unweighted** GPA for **the current semester**, out of 4.
+CanvasCBL provides two GPAs. One is the GPA you'll see on your report card.
+The other GPA is a more traditional GPA you could use, for example,
+to compare with friends at other schools.
 
-We do our absolute best to be as accurate as possible, but please contact your academic counselor for your guaranteed GPA.
+The GPA widget appears below your grades, and looks like this.
+
+![GPA Widget](/images/2020-02-20-about-gpas-1.png)
+
+> Please note that, while we do our absolute best to be as accurate as possible, 
+> please contact your academic counselor for your guaranteed GPA.
 
 ## Report Card GPA
 
