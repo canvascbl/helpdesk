@@ -1,8 +1,10 @@
 language: ruby
 
 before_install:
-  - gem update --system
   - gem install bundler
+
+install:
+  - bundler install --path vendor/bundle
 
 cache: bundler
 script: make build
@@ -12,7 +14,7 @@ deploy:
     cleanup: false
     github_token: $GITHUB_TOKEN
     keep_history: false
-    local_dir: build
+    local_dir: _site
     committer_from_gh: true
     target_branch: gh-pages
     repo: canvascbl/helpdesk
