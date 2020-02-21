@@ -1,6 +1,9 @@
 install:
 	bundle install
 
+build:
+	bundle exec jekyll build
+
 build/docker:
 	docker build -t canvascbl/helpdesk .
 
