@@ -3,7 +3,8 @@ sudo: false
 language: ruby
 
 before_install:
-  - gem install bundler
+  - gem update --system
+  - gem install bundler -v 1.17.2
 
 install:
   - bundler install --path vendor/bundle
