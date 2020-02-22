@@ -82,6 +82,6 @@ This student's outcome average is 3, because the lowest score, 1, was dropped.
 
 Average: `2.86`
 
-This student's outcome average is 2.6, because their lowest *droppable* score has been
+This student's outcome average is 2.86, because their lowest *droppable* score has been
 dropped. Note that the dropped score is 2 (not 1) because 2 is the lowest score that is
 eligible to be dropped.
