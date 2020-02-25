@@ -3,6 +3,7 @@ title: About GPAs
 categories:
   - using-CanvasCBL
 description: More info on CanvasCBL's GPAs.
+shortlink: gpas
 type: Document
 ---
 

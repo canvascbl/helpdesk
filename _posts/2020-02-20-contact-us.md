@@ -3,6 +3,7 @@ title: Contact Us
 categories:
   - other
 description: Contact us for more help.
+shortlink: contact
 type: Document
 ---
 

@@ -31,10 +31,13 @@ layout: default
 		<div class="tutorial-main">
 			{{ content }}
 		</div>
-		<!-- <div class="tutorial-share">
-			<a class="modalOpen no-smooth" href="#subscribe">{% include social-icon.html icon="Email" %} Subscribe</a>
-			<a class="modalOpen no-smooth" href="#share">{% include social-icon.html icon="Share" %} Share</a>
-		</div> -->
+		<div class="tutorial-share">
+      {% if page.shortlink %}
+      <a class="no-smooth" href="https://go.canvascbl.com/help/{{ page.shortlink }}">{% include social-icon.html icon="Share" %} Shortlink</a>
+      {% endif %}
+			<!-- <a class="modalOpen no-smooth" href="#subscribe">{% include social-icon.html icon="Email" %} Subscribe</a>
+			<a class="modalOpen no-smooth" href="#share">{% include social-icon.html icon="Share" %} Share</a> -->
+		</div>
 	</section>
 </section>
 
