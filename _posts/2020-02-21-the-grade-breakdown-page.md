@@ -1,7 +1,7 @@
 ---
 title: The Grade Breakdown Page
 categories:
-  - using-CanvasCBL
+  - "Using CanvasCBL"
 description: All about our Grade Breakdowns.
 shortlink: breakdowns
 type: Document

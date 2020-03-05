@@ -1,7 +1,7 @@
 ---
 title: About Dropping Scores
 categories:
-  - using-CanvasCBL
+  - "Using CanvasCBL"
 description: Insight into how and when we decide to drop scores.
 type: Document
 ---
