@@ -7,6 +7,6 @@ shortlink: contact
 type: Document
 ---
 
-Please shoot us an email at [sam@canvascbl.com](mailto:sam@canvascbl.com).
+Please email us at [sam@canvascbl.com](mailto:sam@canvascbl.com).
 
-We only offer email support at this time.
+We offer only email support at this time.
