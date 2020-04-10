@@ -15,7 +15,7 @@ When you hide a course, it only disappears from CanvasCBL. It does not
 remove you from the class or hide it on Canvas.
 
 CanvasCBL also remembers courses that you hide across devices, so if you
-hide a class on your computer, it'll be hidden on your computer, too.
+hide a class on your computer, it'll be hidden on your phone, too.
 
 ## Hiding A Course
 
