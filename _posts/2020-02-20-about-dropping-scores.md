@@ -6,6 +6,8 @@ description: Insight into how and when we decide to drop scores.
 type: Document
 ---
 
+**NOTE: all scores pre-COVID are droppable as we are not using this system for the second half of the semester.**
+
 d.tech's 2019-2020 semester 2 policy outlines dropping outcome scores.
 Outcome scores are dropped-- up to one for every outcome-- when **all** of the following conditions are met:
 
