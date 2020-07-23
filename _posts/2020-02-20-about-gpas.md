@@ -7,9 +7,6 @@ shortlink: gpas
 type: Document
 ---
 
-**NOTE: CanvasCBL has temporarily disabled GPA calculation due to the grading
-changes for COVID-19.**
-
 CanvasCBL automatically calculates your GPA every time you log in.
 It provides an **unweighted** GPA for **the current semester**, out of 4.
 CanvasCBL provides two GPAs. One is the GPA you'll see on your report card.

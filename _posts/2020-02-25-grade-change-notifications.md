@@ -27,5 +27,5 @@ The Grade Change notifications are intended to be read at a glance.
 The subject will say "Your grade changed in \<class name\>", and the
 little email preview will say "It went from \<previous grade\> to \<current grade\>."
 
-You can turn these notifcations on and off in CanvasCBL Settings, available
+You can turn these notifications on and off in CanvasCBL Settings, available
 [here](https://go.canvascbl.com/settings).

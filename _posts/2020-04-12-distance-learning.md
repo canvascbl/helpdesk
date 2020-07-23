@@ -7,6 +7,8 @@ shortlink: distance-learning
 type: Document
 ---
 
+## This helpdesk article is deprecated and its information is no longer accurate. It is here for reference only.
+
 CanvasCBL offers the most comprehensive set of tools to manage distance
 learning.
 
